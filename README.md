@@ -7,3 +7,5 @@ This project analyzes global CO2 emissions trends using SQLite, pandas, Matplotl
 
 Insights & Findings
 
+1. SUV Small has the most CO2 emissions among any Vehicle class.
+2. Cargo-vans are the most fuel-efficient vehicle.
